@@ -1,0 +1,11 @@
+multiplication_app/
+├── app.py
+├── database.py
+├── templates/
+│   ├── index.html
+│   └── stats.html
+├── static/
+│   ├── style.css
+│   ├── chart.js
+│   └── images/
+└── requirements.txt
